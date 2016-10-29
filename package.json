@@ -9,6 +9,5 @@
   "author": "Sanzi, Danny, Luna",
   "license": "ISC",
   "dependencies": {
-    "ionic": "^2.1.4"
   }
 }
