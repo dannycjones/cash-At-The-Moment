@@ -9,6 +9,9 @@
   "author": "Sanzi, Danny, Luna",
   "license": "ISC",
   "dependencies": {
+    "async": "^2.1.2",
+    "cheerio": "^0.22.0",
+    "request": "^2.76.0",
     "superagent": "^2.3.0"
   }
 }
