@@ -1,0 +1,14 @@
+{
+  "name": "cashatm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanzi, Danny, Luna",
+  "license": "ISC",
+  "dependencies": {
+    "ionic": "^2.1.4"
+  }
+}
